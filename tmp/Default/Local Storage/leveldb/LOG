@@ -1,0 +1,8 @@
+2024/11/21-21:23:15.371 2604 Reusing MANIFEST C:\Users\Admin\OneDrive\Desktop\WebScraper\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/21-21:23:15.388 2604 Recovering log #44
+2024/11/21-21:23:15.404 2604 Level-0 table #46: started
+2024/11/21-21:23:15.448 2604 Level-0 table #46: 257532 bytes OK
+2024/11/21-21:23:15.467 2604 Delete type=0 #44
+2024/11/21-21:24:15.498 2db0 Level-0 table #49: started
+2024/11/21-21:24:15.530 2db0 Level-0 table #49: 257129 bytes OK
+2024/11/21-21:24:15.535 2db0 Delete type=0 #47
