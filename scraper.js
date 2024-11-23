@@ -7,7 +7,7 @@ import path from "path";
 
 const app = express();
 app.use(cors({
-  origin: "https://amazon-scraper-frontend-sigma.vercel.app/",
+  origin: "https://amazon-scraper-frontend-alpha.vercel.app/",
   methods: ["GET", "POST"]
 }));
 
